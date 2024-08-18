@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/SIFRA.git
+git clone https://github.com/Godfathxx/SIFRA-Virtual-Assistant.git
 cd SIFRA
 Set up a virtual environment:
 
